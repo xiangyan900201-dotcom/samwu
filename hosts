@@ -1,7 +1,8 @@
-#sam的主機檔
+﻿#sam的主機檔
 192.168.80.200 ws1.sam.com
 192.168.80.201 ws2.sam.com
 192.168.80.202 ws3.sam.com
 192.168.80.203 ws4.sam.com
 192.168.80.204 ws5.sam.com
+192.168.80.205 ws6.sam.com
 #END
